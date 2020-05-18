@@ -12,4 +12,3 @@ data = CSV.read("")
 
 #入力された運動のMETsの合計値
 mets_sum = 0;
-
